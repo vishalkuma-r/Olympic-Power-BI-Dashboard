@@ -1,5 +1,6 @@
 Olympics Analysis Dashboard with Power BI
-![demate](https://github.com/user-attachments/assets/11525716-fcd4-4da6-9129-97309524e7dd)
+
+![Screenshot 2024-10-13 142222](https://github.com/user-attachments/assets/5e6f6dbc-7b60-44d4-8794-737428352ab1)
 
 Olympics Analysis Dashboard
 
@@ -11,9 +12,12 @@ Interactive Dashboard:
 
 Athlete Performance: 
     Explore individual athlete performances, compare achievements, and identify records.
+    ![a](https://github.com/user-attachments/assets/7ae161ac-f548-4ce4-962f-39eeab2fc13e)
+
 
 Country Statistics: 
     Gain insights into countries' success rates, medal counts, and participation patterns.
+![c](https://github.com/user-attachments/assets/bbb7a1de-09f4-470a-b7ff-6f74b6847192)
     
 Filtering and Slicing: 
     Customize your analysis by filtering data based on sport, year, country, or athlete.
