@@ -1,4 +1,5 @@
 Olympics Analysis Dashboard with Power BI
+![demate](https://github.com/user-attachments/assets/11525716-fcd4-4da6-9129-97309524e7dd)
 
 Olympics Analysis Dashboard
 
@@ -6,11 +7,19 @@ Welcome to the Olympics Analysis Dashboard project! This interactive Power BI da
 
 Features
 Interactive Dashboard:
-Dive into the world of Olympics with an engaging and user-friendly Power BI dashboard.
-Athlete Performance: Explore individual athlete performances, compare achievements, and identify records.
-Country Statistics: Gain insights into countries' success rates, medal counts, and participation patterns.
-Filtering and Slicing: Customize your analysis by filtering data based on sport, year, country, or athlete.
-Visualizations: Utilize a wide range of visualizations, including charts, graphs, and maps, to present and understand Olympic data effectively.
+    Dive into the world of Olympics with an engaging and user-friendly Power BI dashboard.
+
+Athlete Performance: 
+    Explore individual athlete performances, compare achievements, and identify records.
+
+Country Statistics: 
+    Gain insights into countries' success rates, medal counts, and participation patterns.
+    
+Filtering and Slicing: 
+    Customize your analysis by filtering data based on sport, year, country, or athlete.
+    
+Visualizations: 
+     Utilize a wide range of visualizations, including charts, graphs, and maps, to present and understand Olympic data effectively.
 Dataset
 The project utilizes an open-source dataset containing Olympics data from 1900 to 2020. The dataset includes information such as sports, athletes, countries, events, medals, and more.
 
